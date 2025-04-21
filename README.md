@@ -23,12 +23,6 @@ It showcases:
 
 ---
 
-## 📷 Preview
-
-![Portfolio Screenshot](https://your-screenshot-link.com)
-
----
-
 ## 📫 Contact
 - 📧 Email: jagadeesh.1724@gmail.com
 - 📞 Phone: 8125008885
